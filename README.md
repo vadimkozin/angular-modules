@@ -1,3 +1,12 @@
+# Homework "AngularJS modules .."
+# Install
+```
+git clone https://github.com/vadimkozin/angular-modules angular-modules
+cd angular-modules
+npm start
+http://localhost:8000
+```
+
 # angular-seed — the seed for AngularJS apps
 
 This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.

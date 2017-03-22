@@ -13,7 +13,7 @@
     <hr>
     <h3>Личный кабинет</h3>
     <div ng-if="!vm.accountForm.accountName.$dirty && vm.newAccount.name">
-        <h5>Добро пожаловать <strong>"{{vm.newAccount.name || uppercase }}". Вы можете изменить свои настройки</strong></h5>
+        <h5>Добро пожаловать <strong>"{{vm.newAccount.name | uppercase }}". Вы можете изменить свои настройки</strong></h5>
     </div>
 
     <div class="form-group">

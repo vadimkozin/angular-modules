@@ -1,7 +1,7 @@
 # Homework "AngularJS modules .."
 # Install
 ```
-git clone https://github.com/vadimkozin/angular-modules angular-modules
+git clone https://github.com/vadimkozin/angular-modules
 cd angular-modules
 npm start
 http://localhost:8000
